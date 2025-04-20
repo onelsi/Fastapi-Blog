@@ -1,0 +1,33 @@
+
+.posts-container {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+  }
+  
+  .posts-list {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    background-color: #f9f9f9;
+  }
+  
+  .post-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .post-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 5px;
+  }
+  
+  .post-author {
+    font-size: 14px;
+    color: #555;
+    margin: 0;
+  }

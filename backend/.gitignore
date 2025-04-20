@@ -1,0 +1,9 @@
+# Virtual Environment
+.venv
+
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
